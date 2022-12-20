@@ -46,7 +46,7 @@ button {
   width: 800px;
   max-width: 90%;
   margin: 5rem auto;
-  border: 1px solid black;
+/*   border: 1px solid black; */
 }
 
 .error {
