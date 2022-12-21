@@ -55,3 +55,11 @@ button {
   font-size: 1.8rem;
   margin: 1rem;
 }
+.footer{
+    position: fixed;
+    bottom: 0;
+}
+.footer p{
+    max-width: 600px;
+    margin: auto;
+}
